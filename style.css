@@ -29,20 +29,20 @@ body {
   flex-direction: column;
 }
 
-.timer_controls {
+.timer__controls {
   display: flex;
 }
 
-.timer_controls > * {
+.timer__controls > * {
   flex: 1;
 }
 
-.timer_controls form {
+.timer__controls form {
   flex: 1;
   display: flex;
 }
 
-.timer_controls input {
+.timer__controls input {
   flex: 1;
   border: 0;
   padding: 2rem;
